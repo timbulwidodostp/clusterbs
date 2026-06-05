@@ -1,6 +1,8 @@
 # clusterbs
 Pairs cluster bootstrap-t program for calculating standard errors for linear and GLM models using clustered data Use clusterbs With STATA 19
 
+https://www.youtube.com/watch?v=kHYQ2FlA0Kk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
